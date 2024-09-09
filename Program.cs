@@ -57,13 +57,17 @@ namespace szinkavalkad
 					}
 				}
 
-				Console.WriteLine($"Helyes szín, helyes helyen: {joHely}");
-				Console.WriteLine($"Helyes szín, rossz helyen: {joSzin}");
-
 				if(joHely == 3)
 				{
-					Console.WriteLine("Gratulálok, kitaláltad a színeket!");
+                    Console.WriteLine();
+                    Console.WriteLine("-----------------------------");
+                    Console.WriteLine("Gratulálok, kitaláltad a színeket!");
 					talalt = true;
+				}
+				else
+				{
+					Console.WriteLine($"Helyes szín, helyes helyen: {joHely}");
+					Console.WriteLine($"Helyes szín, rossz helyen: {joSzin}");
 				}
 			}
 		}
