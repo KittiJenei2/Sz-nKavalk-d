@@ -1,0 +1,10 @@
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\bin\Debug\szinkavalkad1.exe.config
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\bin\Debug\szinkavalkad1.exe
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\bin\Debug\szinkavalkad1.pdb
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.csproj.AssemblyReference.cache
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.Form1.resources
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.Properties.Resources.resources
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.csproj.GenerateResource.cache
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.csproj.CoreCompileInputs.cache
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.exe
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad1\szinkavalkad1\obj\Debug\szinkavalkad1.pdb
