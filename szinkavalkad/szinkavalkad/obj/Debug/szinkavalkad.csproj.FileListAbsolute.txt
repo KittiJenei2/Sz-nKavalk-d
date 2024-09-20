@@ -1,0 +1,14 @@
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\bin\Debug\szinkavalkad.exe.config
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\bin\Debug\szinkavalkad.exe
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\bin\Debug\szinkavalkad.pdb
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.csproj.AssemblyReference.cache
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.csproj.CoreCompileInputs.cache
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.exe
+E:\suli 24-25\hétfő\ikt2\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.pdb
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\bin\Debug\szinkavalkad.exe.config
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\bin\Debug\szinkavalkad.exe
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\bin\Debug\szinkavalkad.pdb
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.csproj.AssemblyReference.cache
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.csproj.CoreCompileInputs.cache
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.exe
+F:\suli 24-25\hétfő\ikt2\wiezl\szinkavalkad\szinkavalkad\obj\Debug\szinkavalkad.pdb
